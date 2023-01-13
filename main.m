@@ -1,0 +1,9 @@
+numberElements=8;
+T=0.5;
+M0=32;
+space_point=2;
+time_gap=1;
+condition='fix';
+appro='erf';
+location='right';
+[x,error]=dich3(numberElements,T,M0,space_point,time_gap,condition,appro,location);

@@ -1,1 +1,1 @@
-# Damage-detection-for-the-beam
+# Damage-detection-for-the-Euler-Bernoulli beam
